@@ -1,6 +1,6 @@
 # Block Scope
 
-_modestly scoped software development with one worker thread_
+_modestly scoped software development with one [worker](https://github.com/philderbeast) thread_
 
 ## Services
 
